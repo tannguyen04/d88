@@ -1,0 +1,14 @@
+uuid: ba944657-4d2c-4f2c-b3c5-9411e73f1aba
+name: d88
+mail: tan.nguyen@ffwagency.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
